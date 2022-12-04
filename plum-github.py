@@ -2,7 +2,7 @@
 # Analizator EcoNet
 # (C) 2020 Tomasz Król https://github.com/twkrol/econetanalyze
 # Gwarancji żadnej nie daję. Ale można korzystać do woli i modyfikować wg potrzeb
-# you have to installed paho mqtt client  / pip install paho-mqtt
+# you have to installed paho mqtt client  / pip install paho-mqtt / pip3 install paho-mqtt
 
 import functools
 import math
